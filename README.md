@@ -47,3 +47,8 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 3.	Can we identify any trends or patterns in defect occurrences and their impact on overall coffee quality?
 
 4.	How do different variables interact to influence the Total Cup Points, which represent an overall measure of coffee quality?
+
+
+# Data set
+
+df_arabica_clean.csv
