@@ -52,3 +52,8 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 # Data set
 
 df_arabica_clean.csv
+
+
+# Dashboard
+
+![image alt]([image_url](https://github.com/NageswaraRaoLam/Coffee-Quality-Data-Analysis-Using-Power-BI/blob/be3e6f1b30afed7459380698a88e7353a8bbb282/Dashboard.JPG))
