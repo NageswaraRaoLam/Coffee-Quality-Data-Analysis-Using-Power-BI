@@ -10,7 +10,7 @@ CQI's mission is to promote coffee quality through a range of activities that in
 # Data:
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
-# Sensory evaluations (coffee quality scores)
+## Sensory evaluations (coffee quality scores)
 Aroma: Refers to the scent or fragrance of the coffee.
 Flavor: The flavor of coffee is evaluated based on the taste, including any sweetness, bitterness, acidity, and other flavor notes.
 Aftertaste: Refers to the lingering taste that remains in the mouth after swallowing the coffee.
@@ -51,7 +51,7 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 # Data set
 
-df_arabica_clean.csv
+- <a href = "https://github.com/NageswaraRaoLam/Coffee-Quality-Data-Analysis-Using-Power-BI/blob/main/df_arabica_clean.csv">dataset
 
 
 # Dashboard
