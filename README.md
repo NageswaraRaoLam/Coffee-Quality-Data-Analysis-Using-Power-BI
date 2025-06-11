@@ -63,3 +63,14 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 
 - <a href = "https://github.com/NageswaraRaoLam/Coffee-Quality-Data-Analysis-Using-Power-BI/blob/main/Coffee%20Quality%20Data%20Analysis%20with%20Power%20BI.pbix" > powerBi file
 
+# PPT
+
+- <a href = " https://github.com/NageswaraRaoLam/Coffee-Quality-Data-Analysis-Using-Power-BI/blob/main/Coffee%20Quality%20-%20Capstone%20Project.pptx"> PPT
+
+# Business Recommendations:
+
+Invest in regions and processing methods that produce “Excellent” quality.
+Focus on varieties and altitudes producing higher cup points.
+Encourage consistent sensory scoring standards.
+![image](https://github.com/user-attachments/assets/f20af891-25c8-40c4-b4f5-117a5d94673d)
+
