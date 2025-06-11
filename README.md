@@ -57,3 +57,9 @@ The primary goal of this project is to leverage the rich dataset provided by CQI
 # Dashboard
 
 ![image alt](Dashboard.JPG)
+
+
+# Power BI file
+
+- <a href = "https://github.com/NageswaraRaoLam/Coffee-Quality-Data-Analysis-Using-Power-BI/blob/main/Coffee%20Quality%20Data%20Analysis%20with%20Power%20BI.pbix" > powerBi file
+
